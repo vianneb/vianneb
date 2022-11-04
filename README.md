@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vianne Buinguyen, a junior majoring in Informatics at the University of Washington.
+- 👋 Hi, I’m Vianne, a junior majoring in Informatics at the University of Washington.
 - 👀 I’m interested in product management, especially creating products that improve accessibility for underrepresented communities.
 - 🌱 I’m currently learning the product development lifecycle & front-end development.
 - 📫 You can reach me at my email [vianneb@uw.edu](mailto:vianneb@uw.edu) or on my [LinkedIn](https://www.linkedin.com/in/vianneb/).
